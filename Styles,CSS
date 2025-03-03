@@ -6,5 +6,5 @@ body {
 #myButton{
  color: black;
 mim-height: 100px;
-
+min-width: 200px;
 }
