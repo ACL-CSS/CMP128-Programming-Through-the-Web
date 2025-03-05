@@ -8,3 +8,25 @@ body {
 mim-height: 100px;
 min-width: 200px;
 }
+
+@media screen and(max-width:480px){
+body{
+  background-color: lightgreen;
+ }
+}
+
+@media screen and(max-width:960px){
+body{
+  background-color: beige;
+ }
+}
+
+@media screen and(max-width:970px){
+body{
+  background-color: lightskyblue;
+ }
+}
+
+
+
+
